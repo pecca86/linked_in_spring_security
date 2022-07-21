@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83ada53-1aec-4aa3-bbfa-725b52404dd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_springsecurity5_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security/admin-web/admin-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/admin-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/admin-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/src/main/java/com/frankmoley/lil/adminweb/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/src/main/java/com/frankmoley/lil/adminweb/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/src/main/java/com/frankmoley/lil/adminweb/web/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/src/main/java/com/frankmoley/lil/adminweb/web/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/templates/detailed_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/src/main/resources/templates/detailed_customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/target/classes/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security/admin-web/target/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/admin-web/target/classes/schema.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658172982278</updated>
       <workItem from="1658172983397" duration="197000" />
-      <workItem from="1658173195597" duration="2697000" />
+      <workItem from="1658173195597" duration="4694000" />
     </task>
     <servers />
   </component>
