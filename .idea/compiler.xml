@@ -6,15 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin-client" />
         <module name="admin-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin-client" target="11" />
       <module name="admin-web" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
       <module name="admin-web" options="-parameters" />
     </option>
   </component>

@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-security/admin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security/admin-client/pom.xml" />
       </list>
     </option>
   </component>

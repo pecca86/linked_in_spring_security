@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/spring-security/admin-client/admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security/admin-web/admin-web.iml" filepath="$PROJECT_DIR$/spring-security/admin-web/admin-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/linked_in_spring_security.iml" filepath="$PROJECT_DIR$/.idea/linked_in_spring_security.iml" />
     </modules>
